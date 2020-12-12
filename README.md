@@ -1,4 +1,4 @@
 # Retail Data Analysis
 
-Exploratory Data Analysis of the e-commerce shop located in UK.
-data_source = https://www.kaggle.com/carrie1/ecommerce-data/downloads/ecommerce-data.zip/1
+<li>Exploratory Data Analysis of the e-commerce shop located in UK.
+<li>data_source = https://www.kaggle.com/carrie1/ecommerce-data/downloads/ecommerce-data.zip/1
